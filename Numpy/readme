@@ -1,0 +1,28 @@
+NumPy doc refers to the documentation format and extension for Sphinx, a Python documentation generator. It is specifically designed for documenting NumPy projects and provides support for the NumPy docstring syntax.
+
+Key Features
+
+Provides support for NumPy docstring format in Sphinx
+Adds code description directives (e.g., np:function, np-c:function) for Numpy docstring syntax
+Enables documentation of NumPy projects using Sphinx
+Usage
+
+Refer to the numpydoc docstring guide for writing docs formatted for this extension
+Use the user guide to learn how to use numpydoc with Sphinx
+Extension
+
+Available as a separate package (numpydoc) for handling docstrings formatted according to the NumPy documentation format
+Can be used with Sphinx to generate documentation for NumPy projects
+Integration
+
+NumPy projects use numpydoc to document their code and provide comprehensive documentation
+Sphinx extension provides a seamless integration with NumPy’s documentation format
+Benefits
+
+Enables consistent and standardized documentation format for NumPy projects
+Facilitates easy creation and maintenance of high-quality documentation
+Supports advanced documentation features, such as code examples and references
+Follow up
+How does numpydoc support documentation of NumPy's C-API and extension modules?
+Can numpydoc be used with other Python libraries or frameworks, aside from NumPy?
+What are the key components of a well-formatted NumPy docstring, according to numpydoc?
